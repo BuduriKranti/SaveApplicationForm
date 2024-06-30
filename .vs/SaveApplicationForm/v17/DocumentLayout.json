@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\services\\applicationdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:services\\applicationdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\controllers\\applicationdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:controllers\\applicationdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\services\\iapplicationdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:services\\iapplicationdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\model\\mastercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:model\\mastercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\repositories\\applicationdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:repositories\\applicationdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\repositories\\iapplicationdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:repositories\\iapplicationdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\model\\applicationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:model\\applicationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\saveapplicationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:saveapplicationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|c:\\users\\krant\\source\\repos\\saveapplicationform\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B3E5C9-A2B6-4412-BDD6-C7D36E18C8B2}|SaveApplicationForm.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Controllers\\ApplicationDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationDetailsController.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Controllers\\ApplicationDetailsController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:52:49.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicationDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Repositories\\IApplicationDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IApplicationDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Repositories\\IApplicationDetailsRepository.cs",
+              "RelativeToolTip": "Repositories\\IApplicationDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:32:58.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Repositories\\ApplicationDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ApplicationDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Repositories\\ApplicationDetailsRepository.cs",
+              "RelativeToolTip": "Repositories\\ApplicationDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:37:36.854Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IApplicationDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Services\\IApplicationDetailsService.cs",
+              "RelativeDocumentMoniker": "Services\\IApplicationDetailsService.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Services\\IApplicationDetailsService.cs",
+              "RelativeToolTip": "Services\\IApplicationDetailsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:43:43.909Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "masterContext.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Model\\masterContext.cs",
+              "RelativeDocumentMoniker": "Model\\masterContext.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Model\\masterContext.cs",
+              "RelativeToolTip": "Model\\masterContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:09:45.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:10:31.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDetail.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Model\\ApplicationDetail.cs",
+              "RelativeDocumentMoniker": "Model\\ApplicationDetail.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Model\\ApplicationDetail.cs",
+              "RelativeToolTip": "Model\\ApplicationDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:34:11.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Services\\ApplicationDetailsService.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDetailsService.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Services\\ApplicationDetailsService.cs",
+              "RelativeToolTip": "Services\\ApplicationDetailsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:43:09.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T13:59:36.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T14:38:16.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveApplicationForm",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\SaveApplicationForm.csproj",
+              "RelativeDocumentMoniker": "SaveApplicationForm.csproj",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\SaveApplicationForm.csproj",
+              "RelativeToolTip": "SaveApplicationForm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T14:20:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\krant\\source\\repos\\SaveApplicationForm\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:53:15.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
